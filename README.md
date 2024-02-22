@@ -2,7 +2,7 @@
 - 👀 I’m interested in manga, games, music, football
 - 🌱 I’m currently learning C# for a university project
 - 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me: @jackusbio on Instagram or Email - jramsaybusiness@gmail.com 
+- 📫 How to reach me: @jackusbio on Instagram, Jack Ramsay on LinkedIn or Email - jramsaybusiness@gmail.com 
 
 <!---
 jramsay21/jramsay21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
