@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jramsay21
 - 👀 I’m interested in manga, games, music, football
-- 🌱 I’m currently learning C# for a university project
+- 🌱 I’m currently learning PHP for a university project
 - 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: @jackusbio on Instagram, Jack Ramsay on LinkedIn or Email - jramsaybusiness@gmail.com 
 
